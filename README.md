@@ -42,6 +42,7 @@ The application automatically categorizes blood sugar readings to give immediate
 ---
 
 <img width="340" height="800" alt="Screenshot_1764081035" src="https://github.com/user-attachments/assets/ecabd994-ac5b-4aa3-ade7-6fb1e8634368" />
+<img width="340" height="800" alt="Screenshot_1764081058" src="https://github.com/user-attachments/assets/a04b91eb-0235-4c2d-aad4-c689cc108508" />
 <img width="340" height="800" alt="Screenshot_1764081088" src="https://github.com/user-attachments/assets/176171dc-6cd3-45f3-87c6-d3902fbefa57" />
 
 ## Features
