@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class AppConstants {
   // Kendi API Key'ini buraya yapıştır
-  static const String apiKey = 'AIzaSyAAlDDHjcR3EGt2cKmBqlqJ_XVrb8rQgpU'; 
+  static const String apiKey = 'Api Key Buraya Gelecek.....'; 
 
  // --- MODERN RENK PALETİ ---
 // Ana Geçiş Rengi (Maviden Mora - Dribbble tarzı)
